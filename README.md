@@ -1,3 +1,3 @@
 # GitProject
 This is my git repository
-Asmit Tiwari
+Author- Asmit Tiwari
