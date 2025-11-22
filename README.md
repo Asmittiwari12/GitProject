@@ -1,2 +1,3 @@
 # GitProject
-This is git repository
+This is my git repository
+Asmit Tiwari
